@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\thesw\onedrive\documents\visual studio 2015\projects\3501 p4\3501 p4\main.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\thesw\onedrive\documents\visual studio 2015\projects\3501 p4\3501 p4\main.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  3501 p4.vcxproj -> C:\Users\thesw\onedrive\documents\visual studio 2015\Projects\3501 p4\Debug\3501 p4.exe
+  3501 p4.vcxproj -> C:\Users\thesw\onedrive\documents\visual studio 2015\Projects\3501 p4\Debug\3501 p4.pdb (Partial PDB)
